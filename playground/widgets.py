@@ -37,7 +37,7 @@ def set_style():
     }
     
     .widget-title {
-        font-size: 150%;
+        font-size: 125%;
         text-align: center;
     }
     
@@ -151,7 +151,7 @@ def RGB_colourspace_models_transformation_matrix_widget():
 def RGB_colourspace_models_chromatically_adapted_primaries_widget():
 
     title_Label = Label(
-        'RGB Colourspace Models Chromatically Adapted Derivation')
+        'RGB Colourspace Models Chromatically Adapted Primaries')
     title_Label.add_class('widget-title')
 
     default_layout = {'flex': '1 1 auto', 'width': 'auto'}
