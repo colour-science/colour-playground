@@ -14,7 +14,7 @@ Colour - Playground
 Introduction
 ------------
 
-Various `Jupyter <http://jupyter.org/>`_ playground notebooks for `Colour <https://github.com/colour-science/colour>`_
+Various `Jupyter <http://jupyter.org/>`_ playground notebooks for `Colour <https://github.com/colour-science/colour>`_.
 
 They are interactive within `Binder <https://mybinder.org/v2/gh/colour-science/colour-playground/master?filepath=playground%2Fcolour.ipynb>`_
 or viewable using `Jupyter Nbviewer <http://nbviewer.jupyter.org/github/colour-science/colour-playground/blob/master/playground/colour.ipynb>`_.
